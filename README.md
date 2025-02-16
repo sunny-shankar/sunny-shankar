@@ -1,13 +1,13 @@
 ### Hi there — I'm Sunny Shankar ✌️
 
-I'm a 21-year-old undergraduate at the Savitribai Phule Pune University, Pune.
+I'm a 25-year-old Software Developer working at Poonawalla Fincorp.
 
 Here you can give a look at some of my work 🧐
 
 ##### Stuff I code with 
-- 🐍 **Python** for Backend Development, automation, script
-- 🌐 **HTML+CSS+JavaScript** for creating websites 
-- 🧪 **Git/Github, Linux, Docker ...**
+- 🐍 **Python** and **NodeJs** for Backend Development, automation, script
+- 🌐 **ReactJS** for creating websites 
+- 🧪 **Git/Github, AWS, Linux, Docker ...**
 
 
 ##### My hobbies include:
