@@ -1,15 +1,26 @@
-### Hi there — I'm Sunny Shankar ✌️
+### Hi there — I'm Sunny Shankar ✌️  
 
-I'm a 25-year-old Software Developer working at Poonawalla Fincorp.
+I'm a **25-year-old Software Developer** at **Poonawalla Fincorp** with a passion for building scalable and efficient systems.  
 
-Here you can give a look at some of my work 🧐
+Here’s a glimpse of what I do 🧐  
 
-##### Stuff I code with 
-- 🐍 **Python** and **NodeJs** for Backend Development, automation, script
-- 🌐 **ReactJS** for creating websites 
-- 🧪 **Git/Github, AWS, Linux, Docker ...**
+---
 
+### 🚀 Tech Stack & Tools  
+- 🐍 **Python** & **Node.js** – Backend Development, Automation, Scripting  
+- 🌐 **React.js** – Frontend Development & Interactive Web Applications  
+- ☁️ **AWS, Docker, Linux** – Cloud Computing, Containerization & DevOps  
+- 🛠 **Git/GitHub** – Version Control & Collaboration  
 
-##### My hobbies include:
-- ⚡ Coding
-- 🎮 Gaming
+---
+
+### 🎯 Hobbies & Interests  
+- ⚡ Coding & Exploring New Tech  
+- 🎮 Gaming (because why not?)  
+- 📖 Learning & Experimenting with Scalable System Designs  
+
+---
+
+📫 **Let's connect:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sunny-shankar-587372168/)  
+
